@@ -159,6 +159,7 @@ cython_debug/
 
 # folders
 Resources/
+models/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
